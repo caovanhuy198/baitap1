@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="danh sach sinh vien"
+        android:id="@+id/id_dssv">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:title="dai hoc tin hoc 1A"
+                android:id="@+id/id_1a"></item>
+            <item android:title="dai hoc tin hoc 2A"
+                android:id="@+id/id_2a"></item>
+        </menu>
+    </item>
+
+    <item android:title="danh sach danh sach lop"
+        android:id="@+id/id_dsl"></item>
+
+</menu>
